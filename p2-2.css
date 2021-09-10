@@ -1,0 +1,75 @@
+h1{
+    background-color: #F0F0F0;
+    text-align: center;
+    font-size: 70px;
+}
+  
+.button1 {
+    position: relative;
+    left: 120px;
+    background-color: #467500;
+    font-size: 35px;
+    padding: 15px 30px;
+}
+
+.Ye1{
+    float: right;
+    width: 25%;
+    background-color: rgba(248, 248, 255, 0.7);
+    font-size: 20px;
+}
+
+.button2 {
+    position: relative;
+    left: 120px;
+    background-color: #467500;
+    color: #F0F0F0;
+    font-size: 20px;
+    padding: 5px 10px;
+}
+
+.Ye2{
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 15px;
+}
+
+.Ye3{
+    text-align: center;
+    font-size: 30px;
+}
+
+.Menu{
+    width: 50%;
+    margin: 50px auto;
+    position: relative;
+    background-color: rgba(248, 248, 255, 0.8);
+}
+
+.Menu.Menu1{
+    background-color: rgba(248, 248, 255, 0.8);
+}
+
+.Menu.Menu2{
+    background-color: rgba(248, 248, 255, 0.8);
+}
+
+.Menu.Menu3{
+    background-color: rgba(248, 248, 255, 0.8);
+}
+
+.Plan{
+    width: 25%;
+    margin: 50px auto;
+    position: relative;
+    background-color: rgba(248, 248, 255, 0.7);
+    font-size: 20px;
+}
+
+.Record{
+    width: 25%;
+    margin: 50px auto;
+    position: relative;
+    background-color: rgba(248, 248, 255, 0.7);
+    font-size: 20px;
+}
